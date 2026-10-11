@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="112" viewBox="0 0 1200 112" role="img" aria-labelledby="title desc">
+<title id="title">TECHNOLOGY STACK</title><desc id="desc">Tools I use and technologies I am exploring</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080D18"/><stop offset=".58" stop-color="#101C32"/><stop offset="1" stop-color="#07101F"/></linearGradient>
+ <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2563EB"/><stop offset=".55" stop-color="#22D3EE"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/></linearGradient>
+ <radialGradient id="glow"><stop offset="0" stop-color="#1D4ED8" stop-opacity=".32"/><stop offset="1" stop-color="#1D4ED8" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#6D9EEB" stroke-opacity=".055" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="112" rx="12" fill="url(#bg)"/>
+<rect width="1200" height="112" rx="12" fill="url(#grid)"/>
+<ellipse cx="1095" cy="52" rx="190" ry="95" fill="url(#glow)"/>
+<path d="M0 96 C210 83 350 110 560 95 S930 80 1200 95" fill="none" stroke="#2563EB" stroke-opacity=".28" stroke-width="1.2"/>
+<path d="M0 103 C220 90 400 112 610 100 S970 91 1200 101" fill="none" stroke="url(#line)" stroke-width="1.8" opacity=".85"/>
+<rect x="24" y="25" width="3" height="58" rx="1.5" fill="#22D3EE"/>
+<text x="48" y="48" fill="#7DD3FC" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="3.2">ANIK2059  /  DEVELOPER PROFILE</text>
+<text x="48" y="76" fill="#F0F6FC" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="700" letter-spacing=".25">TECHNOLOGY STACK</text>
+<text x="49" y="94" fill="#9FB2CB" font-family="Segoe UI, Arial, sans-serif" font-size="12.5">Tools I use and technologies I am exploring</text>
+<g fill="none" stroke="#63D8FF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity=".95"><path d="M1097 40l-14 14 14 14"/><path d="M1126 40l14 14-14 14"/><path d="M1118 34l-12 40"/><circle cx="1160" cy="54" r="23" stroke="#3478F6" opacity=".65"/></g>
+<rect x=".75" y=".75" width="1198.5" height="110.5" rx="11.25" fill="none" stroke="#4B8BFF" stroke-opacity=".35" stroke-width="1.5"/>
+</svg>
