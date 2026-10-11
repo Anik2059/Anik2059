@@ -1,0 +1,63 @@
+[
+  {
+    "name": "FluentAI — AI-Powered English Learning App",
+    "description": "An AI-powered English-learning web app for speaking practice, writing feedback, and vocabulary building with Bengali translations.",
+    "repository_url": "https://github.com/Anik2059/Anik-Vibe-Projects",
+    "live_url": "https://fluentai-app.netlify.app/",
+    "image": "assets/project-fluentai.svg",
+    "image_alt": "FluentAI English learning dashboard illustration",
+    "technologies": [
+      "Python",
+      "Flask",
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "Gemini AI"
+    ]
+  },
+  {
+    "name": "GradeChecker",
+    "description": "A Flask web app that validates student marks from 0–100 and instantly converts them into letter grades.",
+    "repository_url": "https://github.com/Anik2059/GradeChecker",
+    "live_url": "https://anik2059.pythonanywhere.com/",
+    "image": "assets/project-gradechecker.svg",
+    "image_alt": "GradeChecker mark-to-grade result card illustration",
+    "technologies": [
+      "Python",
+      "Flask",
+      "HTML5",
+      "CSS3"
+    ]
+  },
+  {
+    "name": "AG Facade Technology",
+    "description": "A responsive company website for aluminium, glazing, curtain-wall solutions, project showcases, catalogue access, and customer inquiries.",
+    "repository_url": "https://github.com/Anik2059/AG-Facade-Technology",
+    "live_url": "https://ag-facade-technology.onrender.com/",
+    "image": "assets/project-ag-facade.svg",
+    "image_alt": "Modern architectural glass facade illustration",
+    "technologies": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "Node.js",
+      "Express"
+    ]
+  },
+  {
+    "name": "Sotota Machineries Store",
+    "description": "A product-focused storefront for machinery, generators, motors, pumps, oils, fittings, and home essentials with a dynamic catalogue.",
+    "repository_url": "https://github.com/Anik2059/sotota-machineries-website",
+    "live_url": "https://sotota-machineries-website.onrender.com/",
+    "image": "assets/project-sotota-machineries.svg",
+    "image_alt": "Industrial machinery and product storefront illustration",
+    "technologies": [
+      "Python",
+      "Flask",
+      "SQLAlchemy",
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ]
+  }
+]

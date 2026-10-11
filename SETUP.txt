@@ -1,0 +1,37 @@
+ANIK2059 GITHUB PROFILE README — VISUAL REDESIGN + PROJECT MANAGER
+
+PACKAGE CONTENTS:
+- README.md — complete profile README, with Featured Projects generated from projects.json
+- assets/ — profile banner and project illustrations
+- projects.json — editable project names, descriptions, repository links, live URLs and technology badges
+- update_readme.py — regenerates only the Featured Projects section
+- find_old_live_links.py — optional helper for future recovery of old links
+- MANAGE_FEATURED_PROJECTS.md — instructions for changing the featured project cards
+
+THE FOUR CONFIGURED PROJECTS:
+1. FluentAI — https://fluentai-app.netlify.app/
+2. GradeChecker — https://anik2059.pythonanywhere.com/
+3. AG Facade Technology — https://ag-facade-technology.onrender.com/
+4. Sotota Machineries Store — https://sotota-machineries-website.onrender.com/
+
+APPLY TO YOUR LOCAL REPOSITORY:
+1. Keep your existing clone of https://github.com/Anik2059/Anik2059; do not clone into a new folder.
+2. Copy README.md, projects.json, update_readme.py, find_old_live_links.py, and MANAGE_FEATURED_PROJECTS.md into the repository root.
+3. Copy the entire assets folder into the repository root and merge/replace matching files.
+4. In PowerShell at the repository root, run: py update_readme.py
+5. Review changes with: git diff -- README.md projects.json
+6. When satisfied, publish: git add README.md projects.json update_readme.py find_old_live_links.py MANAGE_FEATURED_PROJECTS.md assets; git commit -m "Feature live project links and project manager"; git push origin main
+
+HOW TO CHANGE PROJECTS:
+- Open projects.json in Visual Studio Code or Notepad.
+- Change the order of project objects to reorder cards.
+- Remove an entire object to remove a project from the profile.
+- Duplicate an object and edit all fields to add a project.
+- Set live_url to the actual deployed site. If there is no live website, use an empty string: "".
+- Run py update_readme.py to rebuild the project section; then review the diff and push the changes.
+
+NOTES:
+- Keep assets beside README.md; cards use relative paths such as ./assets/project-fluentai.svg.
+- Each configured project has both a Live Demo link and a GitHub repository link.
+- GitHub profile README pages cannot contain an interactive editor for visitors. projects.json is the easy maintainer control file; regenerate README and push to update the profile.
+- GitHub stats/streak cards are third-party services and may occasionally be unavailable.

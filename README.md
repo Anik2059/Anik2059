@@ -78,41 +78,43 @@ I value clear problem-solving, readable code, and understanding how systems work
 
 <img src="./assets/featured-projects.svg" width="100%" alt="Featured Projects — Selected work, practical experiments, and things I have built" />
 
+<!-- FEATURED_PROJECTS_START -->
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="./assets/project-shopping.svg" width="100%" alt="Abstract web shopping interface artwork" />
-      <h3><a href="https://github.com/Anik2059/MJ_SHOPPING">MJ Shopping</a></h3>
-      <p>A shopping interface for browsing products, filtering items, managing a cart, and exploring a checkout flow.</p>
-      <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></p>
-      <a href="https://github.com/Anik2059/MJ_SHOPPING">View repository →</a>
+      <img src="./assets/project-fluentai.svg" width="100%" alt="FluentAI English learning dashboard illustration" />
+      <h3><a href="https://github.com/Anik2059/Anik-Vibe-Projects">FluentAI — AI-Powered English Learning App</a></h3>
+      <p>An AI-powered English-learning web app for speaking practice, writing feedback, and vocabulary building with Bengali translations.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" /> <img src="https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini AI" /></p>
+      <p><a href="https://fluentai-app.netlify.app/">🚀 Live Demo</a> &nbsp;·&nbsp; <a href="https://github.com/Anik2059/Anik-Vibe-Projects">View repository ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <img src="./assets/project-chat.svg" width="100%" alt="Abstract client-server chat interface artwork" />
-      <h3><a href="https://github.com/Anik2059/Clients-and-Server-Chat-Application">Python Client–Server Chat</a></h3>
-      <p>A desktop chat project demonstrating GUI design, TCP socket communication, and client–server architecture.</p>
-      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Tkinter-2C5A7A?style=flat-square" alt="Tkinter" /> <img src="https://img.shields.io/badge/TCP%20Sockets-1F6FEB?style=flat-square" alt="TCP sockets" /></p>
-      <a href="https://github.com/Anik2059/Clients-and-Server-Chat-Application">View repository →</a>
+      <img src="./assets/project-gradechecker.svg" width="100%" alt="GradeChecker mark-to-grade result card illustration" />
+      <h3><a href="https://github.com/Anik2059/GradeChecker">GradeChecker</a></h3>
+      <p>A Flask web app that validates student marks from 0–100 and instantly converts them into letter grades.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /></p>
+      <p><a href="https://anik2059.pythonanywhere.com/">🚀 Live Demo</a> &nbsp;·&nbsp; <a href="https://github.com/Anik2059/GradeChecker">View repository ↗</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="./assets/project-network.svg" width="100%" alt="Abstract connected nodes representing computer networks" />
-      <h3><a href="https://github.com/Anik2059/Tcp-flow-congestion-java">TCP Flow & Congestion Simulator</a></h3>
-      <p>A Java simulation project for exploring TCP flow control and congestion-control behavior.</p>
-      <p><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Computer%20Networks-1F6FEB?style=flat-square" alt="Computer networks" /></p>
-      <a href="https://github.com/Anik2059/Tcp-flow-congestion-java">View repository →</a>
+      <img src="./assets/project-ag-facade.svg" width="100%" alt="Modern architectural glass facade illustration" />
+      <h3><a href="https://github.com/Anik2059/AG-Facade-Technology">AG Facade Technology</a></h3>
+      <p>A responsive company website for aluminium, glazing, curtain-wall solutions, project showcases, catalogue access, and customer inquiries.</p>
+      <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white" alt="Express" /></p>
+      <p><a href="https://ag-facade-technology.onrender.com/">🚀 Live Demo</a> &nbsp;·&nbsp; <a href="https://github.com/Anik2059/AG-Facade-Technology">View repository ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <img src="./assets/project-music.svg" width="100%" alt="Abstract audio wave and music player artwork" />
-      <h3><a href="https://github.com/Anik2059/MJ-Music-PLAYER">MJ Music Player</a></h3>
-      <p>A browser-based music project bringing audio, video, and playlist-style content together in one interface.</p>
-      <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></p>
-      <a href="https://github.com/Anik2059/MJ-Music-PLAYER">View repository →</a>
+      <img src="./assets/project-sotota-machineries.svg" width="100%" alt="Industrial machinery and product storefront illustration" />
+      <h3><a href="https://github.com/Anik2059/sotota-machineries-website">Sotota Machineries Store</a></h3>
+      <p>A product-focused storefront for machinery, generators, motors, pumps, oils, fittings, and home essentials with a dynamic catalogue.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" /></p>
+      <p><a href="https://sotota-machineries-website.onrender.com/">🚀 Live Demo</a> &nbsp;·&nbsp; <a href="https://github.com/Anik2059/sotota-machineries-website">View repository ↗</a></p>
     </td>
   </tr>
 </table>
-
+<!-- FEATURED_PROJECTS_END -->
 ---
 
 <img src="./assets/github-overview.svg" width="100%" alt="GitHub Overview — A snapshot of my public development activity" />
